@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # ElectricityBillManagement-System
 It is a project on Electricity bill management system.
 
